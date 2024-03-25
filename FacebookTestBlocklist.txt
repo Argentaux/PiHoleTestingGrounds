@@ -1,0 +1,3 @@
+(\.|^)facebook\.design$
+(\.|^)fb\.me$
+(^|\.)(facebook|fb|fbcdn|fbsbx|tfbnw|facebookbrand|messenger)\.(com|net)$
